@@ -17,7 +17,7 @@ To benchmark the SAM (Segment Anything Model) on the **Cochlear OCT** dataset we
 [https://github.com/mazurowski-lab/finetune-SAM]
 
 ## Dataset
-The dataset can be dowloaded from the Open Science Framework (OSF) 
+The open-source dataset can be dowloaded from the Open Science Framework (OSF) 
 
 ## Citation
 Please cite our paper if you find our codes or paper helpful
