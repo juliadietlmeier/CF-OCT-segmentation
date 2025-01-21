@@ -1,7 +1,7 @@
 # CF-OCT-segmentation
-Semantic segmentation and quantification of fibrosis in a novel cochlear OCT dataset
+Semantic segmentation and quantification of fibrosis in a novel **Cochlear OCT** dataset
 
-Benchmarking different Keras segmentation models on the new **Cochlear OCT** dataset:
+Benchmarking different Keras segmentation models on our new **Cochlear OCT** dataset:
 
 Proposed 2D-OCT-UNET
 
