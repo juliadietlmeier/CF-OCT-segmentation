@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri May  3 14:34:16 2024
+Created on Tue Jan 21 14:34:16 2025
 
-@author: daa
+@author: Julia Dietlmeier <julia.dietlmeier@insight-centre.org>
 """
 
 import cv2
@@ -15,12 +15,6 @@ import tensorflow.keras as keras
 #import keras
 from tensorflow.keras import backend
 import pandas as pd
-
-
-
-
-
-
 
 mean = tf.constant([0.485, 0.456, 0.406])
 std = tf.constant([0.229, 0.224, 0.225])
