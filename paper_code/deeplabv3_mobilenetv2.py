@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jul 18 15:47:34 2024
+Created on Tue Jan 21 15:47:34 2025
 
-@author: dietlmj
+@author: Julia Dietlmeier <julia.dietlmeier@insight-centre.org>
 """
 import keras
 from keras import layers
