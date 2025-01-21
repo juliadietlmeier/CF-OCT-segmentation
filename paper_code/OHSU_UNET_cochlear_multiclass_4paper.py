@@ -1,18 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jan 25 10:15:37 2019
+Created on Tue Jan 21 10:15:37 2025
 
-@author: dietlmj
+@author: Julia Dietlmeier <julia.dietlmeier@insight-centre.org>
 """
-
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 22 10:46:25 2019
-
-@author: dietlmj
-"""
-
-# -*- coding: utf-8 -*-
 
 from numpy.random import seed
 seed(1)
