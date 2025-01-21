@@ -20,5 +20,5 @@ To benchmark the SAM (Segment Anything Model) on the **Cochlear OCT** dataset we
 Please cite our paper if you find our codes or paper helpful
 
 Dietlmeier, J., Greenberg, B., He, W., Wilson, T., Xing, R., Hill, J., Fettig, A., Otto, M., Rounsavill, T., Reiss, L.A.J., Yi, J. O'Connor, N.E., Burwood, G.W.S. (2025). 
-Towards Investigating Residual Hearing Loss: Quantification of Fibrosis in a Novel Cochlear OCT Dataset. 
+**Towards Investigating Residual Hearing Loss: Quantification of Fibrosis in a Novel Cochlear OCT Dataset**. 
 IEEE Transactions on Biomedical Engineering, vol(no), pp-pp.
