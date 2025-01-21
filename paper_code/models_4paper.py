@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri May  3 09:19:45 2024
+Created on Tue Jan 21 09:19:45 2025
 
-@author: daa
+@author: Julia Dietlmeier <julia.dietlmeier@insight-centre.org>
 """
 
 
