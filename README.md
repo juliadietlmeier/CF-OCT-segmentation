@@ -20,8 +20,8 @@ To benchmark the SAM (Segment Anything Model) on the **Cochlear OCT** dataset we
 The open-source dataset can be dowloaded from the Open Science Framework (OSF) 
 
 ## Training
-Use OHSU_UNET_cochlear_multiclass_4paper.py to train the proposed 2D-OCT-UNET,UEfficientNet, VGG16-UNET and the MST-DeepLabv3 models
-Use OHSU_UNET_cochlear_multiclass_Segformer_4paper.py to train the SegFormer model
+Use _OHSU_UNET_cochlear_multiclass_4paper.py_ to train the proposed 2D-OCT-UNET, UEfficientNet, VGG16-UNET and the MST-DeepLabv3 models.
+Use _OHSU_UNET_cochlear_multiclass_Segformer_4paper.py_ to train the SegFormer model
 
 ## Quantification of Fibrosis
 
