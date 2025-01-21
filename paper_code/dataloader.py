@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri May  3 14:34:16 2024
+Created on Tue Jan 21 14:34:16 2025
 
-@author: daa
+@author: Julia Dietlmeier <julia.dietlmeier@insight-centre.org>
 """
 
 import cv2
