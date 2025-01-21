@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sat May  4 06:40:22 2024
+Created on Tue Jan 21 06:40:22 2025
 
-@author: daa
+@author: Julia Dietlmeier <julia.dietlmeier@insight-centre.org>
 """
 #https://github.com/neuropoly/multiclass-segmentation/blob/master/metrics.py
 #https://github.com/neuropoly/multiclass-segmentation/blob/master/metrics.py
