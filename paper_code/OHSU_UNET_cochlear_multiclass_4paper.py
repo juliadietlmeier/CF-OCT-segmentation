@@ -269,8 +269,6 @@ print('ave_seg_Jaccard=',np.mean(seg_Jaccard))
 "=============================================================================="
 "==== OCTV7L =================================================================="
 
-"=== PREDICT on whole 300 to 550 slices = 250 slices and postprocess to get the Fibrosis content"
-
 import glob
 import skimage
 from skimage import data, filters, measure, morphology
@@ -452,7 +450,6 @@ df.to_csv('/home/daa/Desktop/Cochlear_project/Cochlear_May2023/New_multiclass_an
 
 "=============================================================================="
 "OCTV1L"
-"=== PREDICT on whole 300 to 550 slices = 250 slices and postprocess to get the Fibrosis content"
 
 import glob
 import skimage
@@ -644,7 +641,6 @@ df.to_csv('/home/daa/Desktop/Cochlear_project/Cochlear_May2023/New_multiclass_an
 
 "=============================================================================="
 "OCTV9L"
-"=== PREDICT on whole 300 to 550 slices = 250 slices and postprocess to get the Fibrosis content"
 
 import glob
 import skimage
@@ -829,7 +825,6 @@ df.to_csv('/home/daa/Desktop/Cochlear_project/Cochlear_May2023/New_multiclass_an
 
 "=============================================================================="
 "OCTV10L"
-"=== PREDICT on whole 300 to 550 slices = 250 slices and postprocess to get the Fibrosis content"
 
 import glob
 import skimage
@@ -1015,7 +1010,6 @@ df.to_csv('/home/daa/Desktop/Cochlear_project/Cochlear_May2023/New_multiclass_an
 
 "=============================================================================="
 "OCTV11L"
-"=== PREDICT on whole 300 to 550 slices = 250 slices and postprocess to get the Fibrosis content"
 
 import glob
 import skimage
