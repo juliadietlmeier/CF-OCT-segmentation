@@ -12,8 +12,6 @@ Created on Tue Jan 22 10:46:25 2019
 @author: dietlmj
 """
 
-# Drosophila membrane ISBI challenge data
-# https://github.com/zhixuhao/unet/blob/master/data.py
 # -*- coding: utf-8 -*-
 
 from numpy.random import seed
@@ -653,8 +651,6 @@ Biodata = {'slice_number_human': idx,
 df = pd.DataFrame(Biodata)
 df.to_csv('/home/daa/Desktop/Cochlear_project/Cochlear_May2023/New_multiclass_annotations/4paper/corrected/Fibrosis_csv_toGeorge/NEW_Fibrosis_OCTV1L_human.csv', index=False)
 
-
-m
 "=============================================================================="
 "OCTV9L"
 "=== PREDICT on whole 300 to 550 slices = 250 slices and postprocess to get the Fibrosis content"
