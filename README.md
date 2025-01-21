@@ -21,9 +21,11 @@ The open-source dataset can be dowloaded from the Open Science Framework (OSF)
 
 ## Training
 Use _OHSU_UNET_cochlear_multiclass_4paper.py_ to train the proposed 2D-OCT-UNET, UEfficientNet, VGG16-UNET and the MST-DeepLabv3 models.
-Use _OHSU_UNET_cochlear_multiclass_Segformer_4paper.py_ to train the SegFormer model
+Use _OHSU_UNET_cochlear_multiclass_Segformer_4paper.py_ to train the SegFormer model.
 
 ## Quantification of Fibrosis
+The code for the quantification of Fibrosis is embedded into _OHSU_UNET_cochlear_multiclass_4paper.py_ and _OHSU_UNET_cochlear_multiclass_Segformer_4paper.py_.
+The code will compute the amount of fibrosis for the raw volumes OCTV1L, OCTV7L, OCTV9L, OCTV10L and OCTV11L.
 
 ## Citation
 Please cite our paper if you find our codes or paper helpful
