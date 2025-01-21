@@ -13,4 +13,5 @@ SegFormer
 
 MST-DeepLabv3
 
-To benchmark the SAM (Segment Anything Model) on the **Cochlear OCT** dataset we refer to the Github repository 
+To benchmark the SAM (Segment Anything Model) on the **Cochlear OCT** dataset we refer to the Github repository:
+[https://github.com/mazurowski-lab/finetune-SAM]
