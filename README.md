@@ -13,7 +13,7 @@ encoder, bottleneck and decoder blocks indicate the number of filters in the con
 with the number of groups parameter ng = 2. The input resolution of the UNET is set to be 1024 × 1024 pixels. We include Dropout(0.1) layers
 only in the decoder. The number of filters in the last Conv2D layer is equal to the nc = 4 (number of classes).
 
-Other models includede are: VGG16-UNET, UEfficientNet, SegFormer and MST-DeepLabv3
+Other models included are: VGG16-UNET, UEfficientNet, SegFormer and MST-DeepLabv3
 
 To benchmark the SAM (Segment Anything Model) on the **Cochlear OCT** dataset we refer to the Github repository:
 [https://github.com/mazurowski-lab/finetune-SAM]
