@@ -32,6 +32,8 @@ All semantic segmentation models (except SAM) were implemented in Python 3.9.12,
 ## Training
 Use _OHSU_UNET_cochlear_multiclass_4paper.py_ to train the proposed 2D-OCT-UNET, UEfficientNet, VGG16-UNET and the MST-DeepLabv3 models.
 Use _OHSU_UNET_cochlear_multiclass_Segformer_4paper.py_ to train the SegFormer model.
+Select models by commenting/uncommenting lines 99-106 in _OHSU_UNET_cochlear_multiclass_4paper.py_
+Update _dataloader.py_ (rescale part) for individual models being used.
 
 ## Quantification of Fibrosis
 The code for the quantification of Fibrosis is embedded into _OHSU_UNET_cochlear_multiclass_4paper.py_ and _OHSU_UNET_cochlear_multiclass_Segformer_4paper.py_.
