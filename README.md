@@ -5,6 +5,9 @@ Benchmarking different Keras segmentation models on our new **Cochlear OCT** dat
 
 Proposed 2D-OCT-UNET
 
+![ARO_Unet_architecture](https://github.com/user-attachments/assets/17a8e4e8-7570-4400-8929-961ca4513651)
+
+
 VGG16-UNET
 
 UEfficientNet
