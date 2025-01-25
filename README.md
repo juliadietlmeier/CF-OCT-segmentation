@@ -1,5 +1,5 @@
 # CF-OCT-segmentation
-Semantic segmentation and quantification of cochlear fibrosis (CF) in a novel **Cochlear OCT** dataset
+Semantic segmentation and quantification of cochlear fibrosis (CF) in a novel **Cochlear OCT** dataset (animal models)
 
 Benchmarking different Keras segmentation models on our new **Cochlear OCT** dataset:
 
