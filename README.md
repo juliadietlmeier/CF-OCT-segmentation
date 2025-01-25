@@ -26,6 +26,9 @@ The dataset link will be provided soon
 **Fig. 2.** Cochlear OCT dataset samples and the corresponding ground truth annotations from five annotated volumes. The CI/Track class is depicted
 in red, the Fibrosis class in green and the ST/Free Space class in blue.
 
+## Implementation Details
+All semantic segmentation models (except SAM) were implemented in Python 3.9.12, Tensorflow 2.9.1 and Keras 2.9.0. The SAM model was implemented in Python 3.9.12 and PyTorch 2.0.1 (cu117). All experiments were performed on a desktop computer with the Ubuntu operating system 18.04.3 LTS with the Intel(R) Core(TM) i9-9900K CPU, Nvidia GeForce RTX 2080 Ti GPU, and a total of 62GB RAM.
+
 ## Training
 Use _OHSU_UNET_cochlear_multiclass_4paper.py_ to train the proposed 2D-OCT-UNET, UEfficientNet, VGG16-UNET and the MST-DeepLabv3 models.
 Use _OHSU_UNET_cochlear_multiclass_Segformer_4paper.py_ to train the SegFormer model.
