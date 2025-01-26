@@ -1,7 +1,7 @@
 # CF-OCT-segmentation
-Semantic segmentation and quantification of cochlear fibrosis (CF) in a novel **Cochlear OCT** dataset (animal models)
+This repository contains the code for the semantic segmentation and quantification of cochlear fibrosis (CF) in a novel **Cochlear OCT** dataset (animal models). We hope that our findings will advance future studies on exploring the relationship between cochlear fibrosis and residual hearing loss, development of cochlear implants (CI) or treatment of EAS-patients.
 
-Benchmarking different Keras segmentation models on our new **Cochlear OCT** dataset:
+We benchmark different Keras segmentation models on our new **Cochlear OCT** dataset:
 
 Proposed 2D-OCT-UNET
 
