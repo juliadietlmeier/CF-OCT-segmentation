@@ -40,7 +40,7 @@ The code for the quantification of Fibrosis is embedded into _OHSU_UNET_cochlear
 The code will compute the amount of fibrosis for the raw volumes OCTV1L, OCTV7L, OCTV9L, OCTV10L and OCTV11L.
 
 ## Citation
-Please cite our paper if you find our codes or paper helpful
+Please cite our paper if you find our code or paper useful
 
 Dietlmeier, J., Greenberg, B., He, W., Wilson, T., Xing, R., Hill, J., Fettig, A., Otto, M., Rounsavill, T., Reiss, L.A.J., Yi, J. O'Connor, N.E., Burwood, G.W.S. (2025). 
 **Towards Investigating Residual Hearing Loss: Quantification of Fibrosis in a Novel Cochlear OCT Dataset**. 
