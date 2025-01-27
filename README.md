@@ -23,7 +23,7 @@ The open-source dataset can be dowloaded from the Open Science Framework (OSF)
 The dataset link will be provided soon
 
 ![dataset_sample](https://github.com/user-attachments/assets/ffca9dd8-bb54-4edd-a72a-2f45519d94ac)
-**Fig. 2.** Cochlear OCT dataset samples and the corresponding ground truth annotations from five annotated volumes. The CI/Track class is depicted
+**Fig. 2.** Cochlear Fibrosis OCT dataset samples and the corresponding ground truth annotations from five annotated volumes. The CI/Track class is depicted
 in red, the Fibrosis class in green and the ST/Free Space class in blue.
 
 ## Implementation Details
