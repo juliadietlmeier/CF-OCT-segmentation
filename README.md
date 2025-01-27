@@ -18,7 +18,7 @@ Other models included are: VGG16-UNET, UEfficientNet, SegFormer and MST-DeepLabv
 To benchmark the SAM (Segment Anything Model) on the **Cochlear OCT** dataset we refer to the Github repository:
 [https://github.com/mazurowski-lab/finetune-SAM]
 
-## Dataset
+## Cochlear Fibrosis OCT Dataset
 The open-source dataset can be dowloaded from the Open Science Framework (OSF) 
 The dataset link will be provided soon
 
