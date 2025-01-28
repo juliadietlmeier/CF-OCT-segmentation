@@ -20,7 +20,12 @@ To benchmark the SAM (Segment Anything Model) on the **Cochlear OCT** dataset we
 
 ## Cochlear Fibrosis OCT Dataset
 The open-source dataset can be dowloaded from the Open Science Framework (OSF) 
-The dataset link will be provided soon
+
+Associated project
+[https://osf.io/cghn7]
+
+Registration DOI
+[https://doi.org/10.17605/OSF.IO/WB5FS]
 
 ![dataset_sample](https://github.com/user-attachments/assets/ffca9dd8-bb54-4edd-a72a-2f45519d94ac)
 **Fig. 2.** Cochlear Fibrosis OCT dataset samples and the corresponding ground truth annotations from five annotated volumes. The CI/Track class is depicted
