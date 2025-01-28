@@ -16,16 +16,16 @@ only in the decoder. The number of filters in the last Conv2D layer is equal to 
 Other models included are: VGG16-UNET, UEfficientNet, SegFormer and MST-DeepLabv3
 
 To benchmark the SAM (Segment Anything Model) on the **Cochlear OCT** dataset we refer to the Github repository:
-[https://github.com/mazurowski-lab/finetune-SAM]
+https://github.com/mazurowski-lab/finetune-SAM
 
 ## Cochlear Fibrosis OCT Dataset
 The open-source dataset can be dowloaded from the Open Science Framework (OSF) 
 
 Associated OSF project
-[https://osf.io/cghn7]
+https://osf.io/cghn7
 
 Registration DOI
-[https://doi.org/10.17605/OSF.IO/WB5FS]
+https://doi.org/10.17605/OSF.IO/WB5FS
 
 ![dataset_sample](https://github.com/user-attachments/assets/ffca9dd8-bb54-4edd-a72a-2f45519d94ac)
 **Fig. 2.** Cochlear Fibrosis OCT dataset samples and the corresponding ground truth annotations from five annotated volumes. The CI/Track class is depicted
