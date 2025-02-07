@@ -15,10 +15,6 @@ only in the decoder. The number of filters in the last Conv2D layer is equal to 
 
 Other models included are: VGG16-UNET, UEfficientNet, SegFormer and MST-DeepLabv3
 
-![Cochlear_Fibrosis_OCT_Dataset_DL_results](https://github.com/user-attachments/assets/a67d6bdc-6865-4ae0-af99-d5716bcdadd0)
-
-**Fig. 2.** Benchmarking results.
-
 To benchmark the SAM (Segment Anything Model) on the **Cochlear OCT** dataset we refer to the Github repository:
 https://github.com/mazurowski-lab/finetune-SAM
 
@@ -34,6 +30,9 @@ https://doi.org/10.17605/OSF.IO/WB5FS
 ![dataset_sample](https://github.com/user-attachments/assets/ffca9dd8-bb54-4edd-a72a-2f45519d94ac)
 **Fig. 2.** Cochlear Fibrosis OCT dataset samples and the corresponding ground truth annotations from five annotated volumes. The CI/Track class is depicted
 in red, the Fibrosis class in green and the ST/Free Space class in blue.
+
+![Cochlear_Fibrosis_OCT_Dataset_DL_results](https://github.com/user-attachments/assets/a67d6bdc-6865-4ae0-af99-d5716bcdadd0)
+**Fig. 3.** Benchmarking results.
 
 ## Implementation Details
 All semantic segmentation models (except SAM) were implemented in Python 3.9.12, Tensorflow 2.9.1 and Keras 2.9.0. The SAM model was implemented in Python 3.9.12 and PyTorch 2.0.1 (cu117). All experiments were performed on a desktop computer with the Ubuntu operating system 18.04.3 LTS with the Intel(R) Core(TM) i9-9900K CPU, Nvidia GeForce RTX 2080 Ti GPU, and a total of 62GB RAM.
