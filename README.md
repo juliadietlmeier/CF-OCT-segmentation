@@ -15,6 +15,11 @@ only in the decoder. The number of filters in the last Conv2D layer is equal to 
 
 Other models included are: VGG16-UNET, UEfficientNet, SegFormer and MST-DeepLabv3
 
+![Cochlear_Fibrosis_OCT_Dataset_DL_results](https://github.com/user-attachments/assets/a67d6bdc-6865-4ae0-af99-d5716bcdadd0)
+
+**Fig. 2.** Benchmarking results.
+
+
 To benchmark the SAM (Segment Anything Model) on the **Cochlear OCT** dataset we refer to the Github repository:
 https://github.com/mazurowski-lab/finetune-SAM
 
