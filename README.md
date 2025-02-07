@@ -32,7 +32,10 @@ https://doi.org/10.17605/OSF.IO/WB5FS
 in red, the Fibrosis class in green and the ST/Free Space class in blue.
 
 ![Cochlear_Fibrosis_OCT_Dataset_DL_results](https://github.com/user-attachments/assets/a67d6bdc-6865-4ae0-af99-d5716bcdadd0)
-**Fig. 3.** Benchmarking results.
+**Fig. 3.** Samples from qualitative results are provided for each volume. First two rows: OCTV1L, Third row: OCTV7L, Fourth row: OCTV9L, Fifth
+row: OCTV10L and the Sixth row: OCTV11L. By comparing to the Ground Truth (GT) it can be inferred that the 2D-OCT-UNET model performed the
+best and the SAM (prompt-free auto-mode implementation with adapters) model qualitatively performed the worst. As previously, the CI/Track
+class is depicted in red, the Fibrosis class in green and the ST/Free Space class in blue.
 
 ## Implementation Details
 All semantic segmentation models (except SAM) were implemented in Python 3.9.12, Tensorflow 2.9.1 and Keras 2.9.0. The SAM model was implemented in Python 3.9.12 and PyTorch 2.0.1 (cu117). All experiments were performed on a desktop computer with the Ubuntu operating system 18.04.3 LTS with the Intel(R) Core(TM) i9-9900K CPU, Nvidia GeForce RTX 2080 Ti GPU, and a total of 62GB RAM.
