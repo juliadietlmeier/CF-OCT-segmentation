@@ -19,7 +19,6 @@ Other models included are: VGG16-UNET, UEfficientNet, SegFormer and MST-DeepLabv
 
 **Fig. 2.** Benchmarking results.
 
-
 To benchmark the SAM (Segment Anything Model) on the **Cochlear OCT** dataset we refer to the Github repository:
 https://github.com/mazurowski-lab/finetune-SAM
 
